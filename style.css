@@ -89,4 +89,27 @@ footer {
     text-align: center;
     color: var(--muted);
     padding: 40px 20px;
+} 
+/* Personal portfolio polish */
+header,
+section {
+  scroll-margin-top: 24px;
+}
+
+a {
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--accent);
+  color: #ffffff;
 }
