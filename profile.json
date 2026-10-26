@@ -1,19 +1,19 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
+    "name": "Rizwana chenganakkattil",
+    "tagline": "Computer science student",
+    "bio": "I am a Computer Science Student who is passionate about learning web development and programming. I am currently building my skills and exploring new technologies through beginner-friendly projects.",
     "skills": [
         "Git",
         "HTML"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "My first Web project",
+            "desc": "A beginner-friendly project to practice HTML while learning the fundamentals of web development.",
+            "link": "https://github.com/Rizwanack7"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/Rizwanack7"
     }
 }
